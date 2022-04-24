@@ -1,4 +1,4 @@
-- Hi, I’m @Prestonexe! I'm 19 and from Fort Worth, TX.
+- Hi, I’m @Prestonexe! I'm 20 and from Fort Worth, TX.
 - I am currently self teaching myself Javascript! (Started 6/11/2021)
 - I'll be posting all my projects here, any and all criticism is welcome and appreciated.
 - Currently using code academy to learn!
